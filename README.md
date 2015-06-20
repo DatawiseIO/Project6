@@ -1,12 +1,15 @@
-##Project 6 - Kubernetes + Simplified Networking and Storage
+#Project 6
+##Kubernetes + Simplified Networking and Storage
 ![alt tag](https://cloud.githubusercontent.com/assets/3618819/8199045/1a612582-1464-11e5-96ca-69ed66a399ab.png)
 
 ##About
-Project 6 is software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments. It builds on Google's [Kubernetes](http://kubernetes.io), [Docker](http://docker.io) and CoreOS's [etcd](https://github.com/coreos/etcd). Get your Kubernetes cluster up and running in just 3 simple steps in less than 10 minutes.
+Project 6 is software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments. It builds on Google's <a href="http://kubernetes.io" target="_blank">Kubernetes</a>, <a href="http://docker.io" target="_blank">Docker</a> and CoreOS's <a href="https://github.com/coreos/etcd" target="_blank">Etcd</a>. Get your Kubernetes cluster up and running in just 3 simple steps in less than 10 minutes.
 
 ##Setup
 
-Install [Vagrant](https://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+Install <a href="https://www.vagrantup.com" target="_blank">Vagrant</a> and 
+<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">VirtualBox</a>
+
 
 ##Quick start guide
 
