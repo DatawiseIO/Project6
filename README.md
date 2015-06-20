@@ -1,4 +1,4 @@
-#Project 6 - Kubernetes Cluster Manager
+##Project 6 - Kubernetes + Simplified Networking and Storage
 ![alt tag](https://cloud.githubusercontent.com/assets/3618819/8199045/1a612582-1464-11e5-96ca-69ed66a399ab.png)
 
 ##About
