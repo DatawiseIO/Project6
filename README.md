@@ -15,7 +15,7 @@ Install <a href="https://www.vagrantup.com" target="_blank">Vagrant</a> and
 
 Clone the repository and bring up the VMs.
 ```
-$ git clone https://github.com/datawiseio/six.git
+$ git clone https://github.com/DatawiseIO/Project6.git
 $ cd six/vagrant
 $ vagrant up
 ```
