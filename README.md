@@ -10,6 +10,7 @@ Project 6 is software for deploying and managing Docker containers across a clus
 Install <a href="https://www.vagrantup.com" target="_blank">Vagrant</a> and 
 <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">VirtualBox</a>
 
+Note: Please download the latest vagrant >1.7.x from http://www.vagrantup.com/downloads.html
 
 ##Quick start guide
 
