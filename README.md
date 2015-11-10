@@ -3,18 +3,21 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/3618819/8199045/1a612582-1464-11e5-96ca-69ed66a399ab.png)
 
 ##About
-Project 6 is software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments. It builds on Google's [Kubernetes](http://kubernetes.io), [Docker](http://docker.io) and CoreOS's [etcd](https://github.com/coreos/etcd). Get your Kubernetes cluster up and running in just 3 simple steps in less than 10 minutes.
+Project 6 is software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments. It builds on Google's <a href="http://kubernetes.io" target="_blank">Kubernetes</a>, <a href="http://docker.io" target="_blank">Docker</a> and CoreOS's <a href="https://github.com/coreos/etcd" target="_blank">Etcd</a>. Get your Kubernetes cluster up and running in just 3 simple steps in less than 10 minutes.
 
 ##Setup
 
-Install [Vagrant](https://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+Install <a href="https://www.vagrantup.com" target="_blank">Vagrant</a> and 
+<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">VirtualBox</a>
+
+Note: Please download the latest vagrant >1.7.x from http://www.vagrantup.com/downloads.html
 
 ##Quick start guide
 
 Clone the repository and bring up the VMs.
 ```
-$ git clone https://github.com/datawiseio/six.git
-$ cd six/vagrant
+$ git clone https://github.com/DatawiseIO/Project6.git
+$ cd Project6/vagrant
 $ vagrant up
 ```
 By default 3 VMs with 1G RAM & 2 CPU cores are created. Each VM is assigned a
