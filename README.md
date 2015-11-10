@@ -67,7 +67,7 @@ Connect to nginx using the url http://192.168.30.106
 ```
 dwctl volume create wp-vol -v vol1,1G,ext4
 
-dwctl pod create mysql -i docker.io/mysql:latest \
+dwctl pod create mysql -i docker.io/mysql:5.5 \
 -v wp-vol/vol1:/var/lib/mysql,rw -n blue -c 1250 -m 750M \
 -e MYSQL_ROOT_PASSWORD=root
 ```
